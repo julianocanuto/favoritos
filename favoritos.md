@@ -11,6 +11,10 @@
 
 ## Artigos
 
+### Na fila para ler
+
+- https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99
+- https://towardsdatascience.com/optimization-with-python-how-to-make-the-most-amount-of-money-with-the-least-amount-of-risk-1ebebf5b2f29
 - https://medium.com/snipe-gg/understanding-league-of-legends-data-analytics-c2e5d77b55e6
 - https://medium.com/snipe-gg/using-unsupervised-machine-learning-to-assume-positions-in-league-of-legends-8eb142063ea6
 - https://medium.com/@bradleyting/explain-machine-learning-to-someone-who-has-made-a-hello-world-pt-1-517e5c225ec1
