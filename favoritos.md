@@ -28,6 +28,7 @@
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Stormer](https://www.youtube.com/channel/UCntXeFBe7WME5MEw4LE-tCg)
 - [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
+- [Paulo Gala/ Economia & Finanças](https://www.youtube.com/channel/UCW42h2qDbbX3a9RsQT4pnYQ)
 
 ## Vídeos
 
