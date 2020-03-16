@@ -1,0 +1,21 @@
+# Meus favoritos
+
+## Data science
+
+- https://numer.ai/
+- https://www.kaggle.com/
+
+## Cursos
+
+- https://www.udemy.com/course/redes-neurais-artificiais-em-python/
+
+## Artigos
+
+- https://medium.com/snipe-gg/understanding-league-of-legends-data-analytics-c2e5d77b55e6
+- https://medium.com/snipe-gg/using-unsupervised-machine-learning-to-assume-positions-in-league-of-legends-8eb142063ea6
+- https://medium.com/@bradleyting/explain-machine-learning-to-someone-who-has-made-a-hello-world-pt-1-517e5c225ec1
+- https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d
+
+## Vídeos
+
+- [Eu fiz um dos melhores cursos de Programação do Mundo! (minhas impressões)](https://youtu.be/elIl48sZ3rA)
