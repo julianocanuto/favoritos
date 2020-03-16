@@ -19,3 +19,15 @@
 ## Vídeos
 
 - [Eu fiz um dos melhores cursos de Programação do Mundo! (minhas impressões)](https://youtu.be/elIl48sZ3rA)
+
+## Livros
+
+### Lendo
+
+- [Princípios - Ray Dalio](https://amzn.to/2vrZJQg)
+- [Garra. O Poder da Paixão e da Perseverança](https://amzn.to/38Ok3sx)
+
+### Lidos
+
+- [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo](https://amzn.to/39TzjFP)
+- [Trading Atitude mental do trader de sucesso (5ª Edição)](https://amzn.to/33lEyf0)
