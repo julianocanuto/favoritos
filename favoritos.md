@@ -16,6 +16,12 @@
 - https://medium.com/@bradleyting/explain-machine-learning-to-someone-who-has-made-a-hello-world-pt-1-517e5c225ec1
 - https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d
 
+## Canais do Youtube
+
+- [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [Stormer](https://www.youtube.com/channel/UCntXeFBe7WME5MEw4LE-tCg)
+
 ## Vídeos
 
 - [Eu fiz um dos melhores cursos de Programação do Mundo! (minhas impressões)](https://youtu.be/elIl48sZ3rA)
