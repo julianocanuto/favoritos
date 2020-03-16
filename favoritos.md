@@ -27,6 +27,7 @@
 - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Stormer](https://www.youtube.com/channel/UCntXeFBe7WME5MEw4LE-tCg)
+- [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
 
 ## Vídeos
 
