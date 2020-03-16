@@ -45,3 +45,9 @@
 
 - [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo](https://amzn.to/39TzjFP)
 - [Trading Atitude mental do trader de sucesso (5ª Edição)](https://amzn.to/33lEyf0)
+
+## Linguagens de programação
+
+### Benchmarks
+
+- [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
